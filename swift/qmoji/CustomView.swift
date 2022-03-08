@@ -10,13 +10,13 @@ import Cocoa
 import AppKit
 
 //let width = 300
-let height = 200
-let margin = 5
+let height = 600
+let margin = 10
 let numAcross = 10
 
 let im = CGFloat(1)
-let size = 25
-let fontSize = size - 4
+let size = 35
+let fontSize = size - 6
 
 let h = 20
 
